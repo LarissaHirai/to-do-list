@@ -31,7 +31,7 @@ O design é inspirado na tendência do **glassmorphism** com foco em estética l
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/LarissaHirai/to-do-list.git
 ```
 
 2. Abra o `index.html` no seu navegador.
@@ -52,14 +52,16 @@ git clone https://github.com/seu-usuario/nome-do-repositorio.git
 
 ## 💡 Possíveis melhorias
 
--
+- Adicionar responsividade para mobile
+
+- Criar versão PWA
+
+- Sincronização com backend/API
+
+- Login de usuário para salvar tarefas
 
 ## ✨ Autora
 
 **Larissa Mitie Curi Hirai**
-👩‍💻 Estudante de Ciência da Computação - UFT
-🔗 [LinkedIn](https://www.linkedin.com/in/larissamitie/) • [GitHub](https://github.com/seu-usuario)
-
-## 📜 Licença
-
-MIT License. Use, compartilhe e evolua! 💜
+👩‍💻 Bacharel em Ciência da Computação - UFT
+🔗 [LinkedIn](https://www.linkedin.com/in/larissa-mitie-curi-hirai-85424726a/) • [GitHub](https://github.com/LarissaHirai)
